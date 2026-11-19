@@ -91,7 +91,7 @@ Após a execução, o Streamlit abrirá o dashboard no navegador. Caso isso não
 
 ```text
 Senac---Projeto-Integrador---Dashboard-ADS-/
-├── app.py.py
+├── app.py
 ├── movies_limpo.xlsx
 ├── movies.csv
 ├── Esboço - Dashboard de Análise de Filmes.pdf
@@ -110,5 +110,5 @@ Senac---Projeto-Integrador---Dashboard-ADS-/
 ## Observações
 
 - A planilha `movies_limpo.xlsx` é obrigatória para o funcionamento do dashboard.
-- O arquivo deve permanecer na mesma pasta do script `app.py.py`.
+- O arquivo deve permanecer na mesma pasta do script `app.py`.
 - Os dados representam os registros disponíveis no arquivo utilizado pelo projeto e não devem ser considerados como atualização do mercado cinematográfico em tempo real.

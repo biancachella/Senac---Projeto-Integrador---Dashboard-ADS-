@@ -1,7 +1,7 @@
 # ==========================================
 # DASHBOARD DE ANÁLISE DE FILMES
 # ==========================================
-# PARA RODAR O CÓDIGO DIGITE NO TERMINAL: streamlit run projeto.py
+# PARA RODAR O CÓDIGO DIGITE NO TERMINAL: streamlit run app.py
 # A PLANILHA DE DADOS (MOVIES_LIMPO.XLSX) PRECISA ESTAR NA MESMA PASTA QUE O CÓDIGO
 
 import streamlit as st

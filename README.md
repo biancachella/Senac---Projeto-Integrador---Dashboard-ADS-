@@ -4,7 +4,7 @@ Dashboard interativo desenvolvido em Python para analisar dados de filmes de uma
 
 Este projeto foi desenvolvido como parte do **Projeto Integrador do 2º semestre do curso de Análise e Desenvolvimento de Sistemas do Senac**.
 
-Vídeo de demonstração da Dashboard: https://youtu.be/hyT0wqgiamU
+Vídeo de demonstração da Dashboard: https://youtu.be/pSEjZ_U_o1E
 
 ## Funcionalidades
 
